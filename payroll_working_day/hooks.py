@@ -31,6 +31,9 @@ app_license = "MIT"
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
+doctype_js = {
+    "Salary Slip" : "overrides/salary_slip/salary_slip.js",
+}
 
 # Home Pages
 # ----------
