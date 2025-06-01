@@ -1,6 +1,6 @@
 ## Payroll Working Day
 
-Ser days per month fixed
+Set days per month fixed
 
 #### License
 
