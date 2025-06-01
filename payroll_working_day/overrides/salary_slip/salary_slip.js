@@ -2,7 +2,7 @@ frappe.ui.form.on('Salary Slip', {
     employee: function (frm) {
 
         frappe.call({
-            method: "salary_site_calc.overrides.salary_slip.salary_slip.fetch_custom_payroll_working_days",
+            method: "payroll_working_day.overrides.salary_slip.salary_slip.fetch_custom_payroll_working_days",
             args: {
                 employee: frm.doc.employee,
             },
